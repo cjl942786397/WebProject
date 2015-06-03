@@ -66,17 +66,53 @@ Web工程大作业 Step2
 	- 全员参与
 
 ---
-# web应用运行的软硬件环境 
-客户端：  
-(1)操作系统：Windows2000/XP/2003/Vista/7 
-(2)网络协议：TCP/IP协议 
-(3)浏览器：Internet Explorer 6.0以上版本 服务器端： 
-(1)操作系统：Windows Server 2003 Enterprise Edition (2)网络协议：TCP/IP协议 
-(3)WEB服务器：Internet Information Server 6.0 (4)数据库：Microsoft SQL Sever 2005 Developer Edition 2.硬件环境： 
-(1)服务器 CPU:Pentium 双核 以上 ,内存:1G以上 (2)客户机 CPU:P4 以上，内存：256M以上
+##web应用运行的软硬件环境 
+**客户端：**  
+
+**(1)操作系统：**Windows2000/XP/2003/Vista/7 
+
+**(2)网络协议：**TCP/IP协议
+
+ 
+**(3)浏览器：**Internet Explorer 6.0以上版本 
+
+**服务器端：** 
+
+**(1)操作系统：**Windows Server 2003 Enterprise Edition 
+
+**(2)网络协议：**TCP/IP协议 
+
+**(3)WEB服务器：**Internet Information Server 6.0 
+
+**(4)数据库：**Microsoft SQL Sever 2005 Developer Edition 
+
+**硬件环境：**
+
+**(1)服务器 CPU:**Pentium 双核 以上 ,内存:1G以上 
+
+**(2)客户机 CPU:**P4 以上，内存：256M以上
 
 ## 网站技术详细描述
-前端：jsp+JavaScript+CSS   后台：Java（所用框架Jfinal） 数据库：MySQL 5.x 服务器：tomcat 6.X
+**前端：**jsp+JavaScript+CSS   
+
+**后台：**Java（所用框架Jfinal） 
+
+**数据库：**MySQL 5.x 
+
+**服务器：**tomcat 6.X
 ## web应用租赁要求：
-jsp空间大小：1500M  数据库：MySQL5.x 初始化内存： 80M  最大内存：100M 最大带宽：2500k 1分钟持续峰值：40%
-最大并发数：150    数据库最大连接数：100 
+- jsp空间大小：1500M 
+ 
+- 数据库：MySQL5.x 
+
+- 初始化内存： 80M  
+
+- 最大内存：100M 
+
+- 最大带宽：2500k 
+
+- 1分钟持续峰值：40%
+
+- 最大并发数：150    
+
+- 数据库最大连接数：100 
